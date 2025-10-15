@@ -1,0 +1,149 @@
+# ShareBible
+
+**Read Together, Share Together**
+
+---
+
+## About
+
+ShareBible is a mobile-optimized Bible app. From personal meditation to group Bible studies, we aim to enrich your experience of reading and sharing Scripture.
+
+---
+
+## Key Features
+
+### Bible Reading
+- Multiple translations (KRV, Revised Version, KJV, ASV, etc.)
+- Real Bible theme with authentic book feel
+- Note-taking and verse highlighting
+- Reading progress tracking
+
+### Search & Study
+- Full Bible keyword search
+- Strong's Dictionary (original language reference)
+- Cross-references between verses
+- Bookmark management
+
+### Group Study
+- Create online Bible study groups
+- Share and discuss verses
+- Track group members' progress
+- Public/private group options
+
+### Credit System
+- Earn credits through daily attendance
+- Reading plan and mission rewards
+- Bible memory games
+- Use credits for premium features (no purchase required)
+
+### Data Sync
+- Automatic sync across devices
+- Preserve reading position, notes, highlights
+- Firebase-based cloud storage
+
+---
+
+## Supported Platforms
+
+- Android 8.0 and above
+- iOS 12.0 and above (coming soon)
+- Web (beta)
+
+---
+
+## Tech Stack
+
+- Flutter 3.35.1
+- Dart 3.5.0
+- Firebase (Authentication, Firestore, Storage, Messaging)
+- SQLite (local storage)
+- Riverpod (state management)
+- Google AdMob
+
+---
+
+## Roadmap
+
+**Q1 2025**
+- Real Bible theme (completed)
+- Strong's Dictionary integration (completed)
+- Group Study feature (completed)
+- Audio Bible (in progress)
+
+**Q2 2025**
+- Bible Museum (historical Korean translations)
+- Widget improvements
+- AI meditation assistant (experimental)
+
+**Q3-Q4 2025**
+- Enhanced offline mode
+- Expanded social sharing
+- Custom themes
+
+---
+
+## Download
+
+### Google Play
+[Download](https://play.google.com/store/apps/details?id=com.sharebible.app)
+
+### Apple App Store
+Coming soon
+
+### Web
+[https://sharebible.web.app](https://sharebible.web.app)
+
+---
+
+## FAQ
+
+**Is it free?**  
+Basic features are completely free. Premium features can be accessed using credits earned through app activities.
+
+**Can I use it offline?**  
+Downloaded Bible translations work without internet. Some features like Group Study require a connection.
+
+**Is my data safe?**  
+We use Firebase's security systems and collect minimal information. See our Privacy Policy for details.
+
+**What translations are available?**  
+We offer KRV, Revised Version, Common Translation, KJV, ASV, WEB, CUV, and more, with ongoing additions.
+
+**How do I create a group?**  
+Go to the Groups tab, tap "Create Group," and enter a name and description. You can invite members with an invite code.
+
+---
+
+## Licenses
+
+### Bible Translations
+- Public domain translations (KRV, ASV, CUV, etc.)
+- Copyrighted translations provided with proper authorization
+
+### Open Source
+ShareBible uses these open source projects:
+- Flutter & Dart
+- Firebase
+- SQLite
+- Strong's Hebrew & Greek Dictionary (Public Domain)
+
+Full open source licenses available [here](https://chapdcha.github.io/ShareBible_info/licenses.html).
+
+---
+
+## Contact
+
+**Email**: musicbox260@gmail.com  
+**In-App**: Settings > Customer Support  
+**GitHub**: https://github.com/ChaPDCha/ShareBible_info
+
+---
+
+## Legal
+
+- [Privacy Policy](https://chapdcha.github.io/ShareBible_info/privacy.html)
+- [Terms of Service](https://chapdcha.github.io/ShareBible_info/terms.html)
+
+---
+
+© 2025 ShareBible. All rights reserved.
