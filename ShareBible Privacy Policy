@@ -1,0 +1,100 @@
+ShareBible Privacy Policy
+Last Updated: January 15, 2025
+Hello! We're ShareBible, and we take your privacy seriously. This policy explains how we handle your information in plain language.
+
+1. What Information Do We Collect?
+Information Collected Automatically
+To keep the app running smoothly, we collect some basic information:
+
+Device details (OS version, device model, etc.)
+App usage statistics and crash reports
+Approximate location (optional, used for language and content localization)
+
+Information You Provide
+
+Email and username (when you use social login)
+Your Bible notes, memos, highlights, and group study content
+Your preferences like Bible translation, fonts, and themes
+
+Information from Third Parties
+
+Login details from Firebase (Google, Apple)
+Advertising identifiers from Google AdMob
+
+
+2. How Do We Use Your Information?
+We use your information only for these purposes:
+
+Running the service: Making sure the app works well, fixing bugs, and improving performance
+Personalization: Remembering your settings and where you left off reading
+Sync: Keeping your data consistent across devices (if you want)
+Communication: Letting you know about important updates and new features
+Security: Keeping the service safe and preventing misuse
+Advertising: Showing you relevant ads
+Analytics: Understanding how people use the app so we can make it better
+
+
+3. Who Do We Share Information With?
+We only share information when necessary, and as little as possible.
+Service Partners
+
+Firebase: Powers core features like login, data storage, and analytics
+Google AdMob: Delivers advertisements
+Cloud Services: Backs up and syncs your data
+
+Legal Requirements
+We'll share information if required by law, court order, or when necessary to protect someone's rights and safety.
+With Your Consent
+Of course, we'll share information if you explicitly agree to it.
+
+4. How Do We Protect Your Information?
+
+All data in transit is encrypted (TLS/SSL)
+Only authorized staff can access data
+We regularly review and improve our security policies
+Firebase security rules protect our database
+
+
+5. How Long Do We Keep Data?
+
+Data is kept while your account is active, plus 1 year after deletion
+You can delete your account and data anytime
+Accounts unused for 2 years are automatically deleted
+
+
+6. Children's Privacy
+ShareBible isn't intended for children under 13. We don't knowingly collect information from kids under 13, and if we discover we have, we'll delete it immediately.
+
+7. Your Rights
+You have the right to:
+
+View your collected personal information
+Request correction of inaccurate information
+Request deletion of your personal information
+Export your data (as a JSON file)
+Withdraw consent anytime
+
+You can manage these in the app under "Settings > Privacy Management" or email us at musicbox260@gmail.com.
+
+8. International Data Transfers
+Firebase servers are located around the world, so your data might be transferred internationally. Don't worry though—we use appropriate safeguards to protect it.
+
+9. Cookies and Tracking
+
+Firebase Analytics tracks usage patterns
+Google AdMob uses advertising identifiers for personalized ads
+You can limit ad tracking in your device settings
+
+
+10. Changes to This Policy
+This policy may change as laws evolve or our service improves. We'll notify you about significant changes through the app or email.
+
+11. Contact Us
+Got questions about privacy? Reach out anytime:
+
+Email: musicbox260@gmail.com
+In-app: Settings > Customer Support
+GitHub: https://github.com/ChaPDCha/ShareBible_info
+
+
+© 2025 ShareBible. All rights reserved.
