@@ -1,0 +1,151 @@
+# ShareBible
+
+**함께 읽고, 함께 나누는 성경 앱**
+
+---
+
+## 소개
+
+ShareBible은 모바일에 최적화된 성경 앱입니다. 개인 묵상부터 그룹 성경 공부까지, 말씀을 읽고 나누는 경험을 더 풍성하게 만들고자 합니다.
+
+---
+
+## 주요 기능
+
+### 성경 읽기
+- 다양한 번역본 지원 (개역개정, KRV, KJV, ASV 등)
+- 리얼바이블 테마로 실제 성경책 느낌 구현
+- 노트 작성 및 구절 하이라이트
+- 읽기 진행도 추적
+
+### 검색 및 연구
+- 전체 성경 키워드 검색
+- Strong's 사전 (원어 번호 조회)
+- 구절 간 교차 참조
+- 북마크 관리
+
+### 그룹 스터디
+- 온라인 성경 공부 그룹 생성
+- 구절 공유 및 토론
+- 그룹원 읽기 진행도 확인
+- 공개/비공개 그룹 설정
+
+### 크레딧 시스템
+- 매일 출석으로 크레딧 획득
+- 독서 플랜 및 미션 완료 보상
+- 성경 암송 게임
+- 크레딧으로 프리미엄 기능 이용 (구매 불필요)
+
+### 데이터 동기화
+- 여러 기기 간 자동 동기화
+- 읽기 위치, 노트, 하이라이트 보존
+- Firebase 기반 클라우드 저장
+
+---
+
+## 지원 플랫폼
+
+- Android 8.0 이상
+- iOS 12.0 이상 (준비 중)
+- Web (베타)
+
+---
+
+## 기술 스택
+
+- Flutter 3.35.1
+- Dart 3.5.0
+- Firebase (Authentication, Firestore, Storage, Messaging)
+- SQLite (로컬 저장소)
+- Riverpod (상태 관리)
+- Google AdMob
+
+---
+
+## 개발 로드맵
+
+**2025년 1분기**
+- 리얼바이블 테마 (완료)
+- Strong's 사전 통합 (완료)
+- 그룹 스터디 기능 (완료)
+- 오디오 성경 (진행 중)
+
+**2025년 2분기**
+- 성경 박물관 (역사적 한글 번역본 전시)
+- 위젯 개선
+- AI 묵상 도우미 (실험 단계)
+
+**2025년 하반기**
+- 오프라인 모드 개선
+- 소셜 공유 확장
+- 커스텀 테마
+
+---
+
+## 다운로드
+
+### Google Play
+[다운로드](https://play.google.com/store/apps/details?id=com.sharebible.app)
+
+### Apple App Store
+출시 준비 중
+
+### Web
+[https://sharebible.web.app](https://sharebible.web.app)
+
+---
+
+## 자주 묻는 질문
+
+**무료인가요?**  
+기본 기능은 완전 무료입니다. 프리미엄 기능도 앱 내 활동으로 얻은 크레딧을 통해 이용할 수 있습니다.
+
+**오프라인에서 사용할 수 있나요?**  
+다운로드한 성경 번역본은 인터넷 없이 읽을 수 있습니다. 그룹 스터디 등 일부 기능은 인터넷 연결이 필요합니다.
+
+**데이터는 안전한가요?**  
+Firebase의 보안 시스템을 사용하며, 최소한의 정보만 수집합니다. 자세한 내용은 개인정보처리방침을 참고하세요.
+
+**어떤 번역본이 있나요?**  
+KRV, 개역개정, 공동번역, KJV, ASV, WEB, CUV 등을 제공하며, 계속 추가하고 있습니다.
+
+**그룹은 어떻게 만드나요?**  
+앱 하단 '그룹' 탭에서 '+ 그룹 만들기'를 선택하고, 이름과 설명을 입력하면 됩니다. 초대 코드로 멤버를 초대할 수 있습니다.
+
+---
+
+## 라이선스
+
+### 성경 번역본
+- KRV, ASV, CUV 등 퍼블릭 도메인 번역본 사용
+- 저작권이 있는 번역본은 정식 허가 후 제공
+
+### 오픈소스
+ShareBible은 다음 오픈소스 프로젝트를 사용합니다:
+- Flutter & Dart
+- Firebase
+- SQLite
+- Strong's Hebrew & Greek Dictionary (Public Domain)
+
+전체 오픈소스 라이선스는 [여기](https://chapdcha.github.io/ShareBible_info/licenses.html)에서 확인할 수 있습니다.
+
+---
+
+## 문의
+
+**이메일**: musicbox260@gmail.com  
+**앱 내**: 설정 > 고객 지원  
+**GitHub**: https://github.com/ChaPDCha/ShareBible_info
+
+---
+
+## 법적 고지
+
+- [개인정보처리방침](https://chapdcha.github.io/ShareBible_info/privacy.html)
+- [서비스 이용약관](https://chapdcha.github.io/ShareBible_info/terms.html)
+
+---
+
+© 2025 ShareBible. All rights reserved.
+
+---
