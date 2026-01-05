@@ -3,8 +3,8 @@ This repository hosts the Privacy Policy for the ShareBible app.
 
 📱 App Info
 Name: ShareBible
-Description: A modern, share-focused Bible app
-Platforms: Android, iOS
+Description: A modern, share-focused Bible app with immersive reading modes and talent wallet system.
+Platforms: Android, iOS, Web
 
 🔗 View Policy
 👉 View Full Privacy Policy
