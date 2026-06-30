@@ -51,6 +51,18 @@ RealBible serves as a global nexus where believers and thinkers from diverse cul
 
 ---
 
+## Account & Data Deletion Request
+RealBible (Developer: ChaPD / JINPRODUCTION) respects your privacy and gives you full control over your data.
+
+### How to Request Account Deletion
+1. **In-App Deletion:** Open RealBible > Settings > User Settings > Tap 'Withdraw' or 'Delete Account'.
+2. **Email Request:** If you no longer have access to the app, you can request account deletion by emailing musicbox260@gmail.com with your registered email address. (Processed within 3-5 business days)
+
+### Data Types Deleted and Retention Period
+*   **Deleted Data:** Account email, nickname, profile info, bible bookmarks, notes, highlights, and all reading history associated with your account.
+*   **Retention Period:** Upon requesting deletion, all your personal data is immediately and permanently deleted from our active databases. (Data residing in automated system backups may be retained for up to 30 days before being completely purged).
+
+
 ## Contact
 JINPRODUCTION (ChaPD Team)
 Project Lead: JIN
