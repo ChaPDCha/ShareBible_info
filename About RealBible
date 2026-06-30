@@ -1,4 +1,4 @@
-# ShareBible
+# RealBible
 
 **Read Together, Share Together**
 
@@ -6,7 +6,7 @@
 
 ## About
 
-ShareBible is a mobile-optimized Bible app. From personal meditation to group Bible studies, we aim to enrich your experience of reading and sharing Scripture.
+RealBible is a mobile-optimized Bible app. From personal meditation to group Bible studies, we aim to enrich your experience of reading and sharing Scripture.
 
 ---
 
@@ -87,13 +87,13 @@ ShareBible is a mobile-optimized Bible app. From personal meditation to group Bi
 ## Download
 
 ### Google Play
-[Download](https://play.google.com/store/apps/details?id=com.sharebible.app)
+[Download](https://play.google.com/store/apps/details?id=com.jinproduction.realbible)
 
 ### Apple App Store
 Coming soon
 
 ### Web
-[https://sharebible.web.app](https://sharebible.web.app)
+[https://real.sharebible.org](https://real.sharebible.org)
 
 ---
 
@@ -123,13 +123,13 @@ Go to the Groups tab, tap "Create Group," and enter a name and description. You 
 - Copyrighted translations (Common Translation, RVR 1995, ARA, etc.) provided for personal use under the respective societies' permissions.
 
 ### Open Source
-ShareBible uses these open source projects:
+RealBible uses these open source projects:
 - Flutter & Dart
 - Firebase
 - SQLite
 - Strong's Hebrew & Greek Dictionary (Public Domain)
 
-Full open source licenses available [here](https://chapdcha.github.io/ShareBible_info/licenses.html).
+Full open source licenses available [here](https://chapdcha.github.io/RealBible_info/licenses.html).
 
 ---
 
@@ -137,15 +137,15 @@ Full open source licenses available [here](https://chapdcha.github.io/ShareBible
 
 **Email**: musicbox260@gmail.com  
 **In-App**: Settings > Customer Support  
-**GitHub**: https://github.com/ChaPDCha/ShareBible_info
+**GitHub**: https://github.com/ChaPDCha/RealBible_info
 
 ---
 
 ## Legal
 
-- [Privacy Policy](https://chapdcha.github.io/ShareBible_info/privacy.html)
-- [Terms of Service](https://chapdcha.github.io/ShareBible_info/terms.html)
+- [Privacy Policy](https://chapdcha.github.io/RealBible_info/privacy.html)
+- [Terms of Service](https://chapdcha.github.io/RealBible_info/terms.html)
 
 ---
 
-© 2025 ShareBible. All rights reserved.
+© 2025 RealBible. All rights reserved.

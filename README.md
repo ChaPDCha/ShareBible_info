@@ -1,11 +1,11 @@
-# ShareBible: The Digital Illumination Project
+# RealBible: The Digital Illumination Project
 
 [English] | [한국어](./README.ko.md)
 
 ---
 
 ## Mission Statement
-The mission of ShareBible is to redefine the accessibility of ancient wisdom through modern technology, ensuring that spiritual enlightenment remains a universal human right in the digital age.
+The mission of RealBible is to redefine the accessibility of ancient wisdom through modern technology, ensuring that spiritual enlightenment remains a universal human right in the digital age.
 
 ---
 
@@ -15,10 +15,10 @@ The mission of ShareBible is to redefine the accessibility of ancient wisdom thr
 Our primary goal is to place the Bible in the hands of every individual across the globe. By overcoming the digital divide, we ensure that anyone, regardless of their location or hardware specifications, can experience the Word through our highly optimized rendering technologies.
 
 ### 2. Deepening Cognitive Engagement
-We lower the barrier to entry for biblical texts, transforming the reading experience from passive observation to active engagement. ShareBible facilitates a deeper understanding of profound meanings through intuitive design and context-aware learning systems, making complex scripts accessible to everyone.
+We lower the barrier to entry for biblical texts, transforming the reading experience from passive observation to active engagement. RealBible facilitates a deeper understanding of profound meanings through intuitive design and context-aware learning systems, making complex scripts accessible to everyone.
 
 ### 3. Global Platform for Spiritual Wisdom
-ShareBible serves as a global nexus where believers and thinkers from diverse cultures converge to share their insights. We are building a cultural sharing platform that transcends borders, allowing the collective spiritual wisdom of humanity to be synchronized in real-time.
+RealBible serves as a global nexus where believers and thinkers from diverse cultures converge to share their insights. We are building a cultural sharing platform that transcends borders, allowing the collective spiritual wisdom of humanity to be synchronized in real-time.
 
 ---
 
@@ -46,8 +46,8 @@ ShareBible serves as a global nexus where believers and thinkers from diverse cu
 ---
 
 ## Legal and Policy
-*   [Privacy Policy](./ShareBible%20Privacy%20Policy)
-*   [Terms of Service](./ShareBible%20Terms%20of%20Service)
+*   [Privacy Policy](./RealBible%20Privacy%20Policy)
+*   [Terms of Service](./RealBible%20Terms%20of%20Service)
 
 ---
 
@@ -55,6 +55,6 @@ ShareBible serves as a global nexus where believers and thinkers from diverse cu
 JINPRODUCTION (ChaPD Team)
 Project Lead: JIN
 Email: musicbox260@gmail.com
-Website: https://github.com/ChaPDCha/ShareBible_info
+Website: https://github.com/ChaPDCha/RealBible_info
 
 Copyright 2026 JINPRODUCTION. All rights reserved.

@@ -1,4 +1,4 @@
-# ShareBible: 디지털 일루미네이션 프로젝트
+# RealBible: 디지털 일루미네이션 프로젝트
 
 [English](./README.md) | [한국어]
 
@@ -46,8 +46,8 @@
 ---
 
 ## 정책 및 규정
-*   [개인정보처리방침](./ShareBible%20개인정보처리방침)
-*   [서비스 이용약관](./ShareBible%20서비스%20이용약관)
+*   [개인정보처리방침](./RealBible%20개인정보처리방침)
+*   [서비스 이용약관](./RealBible%20서비스%20이용약관)
 
 ---
 
@@ -55,6 +55,6 @@
 진프로덕션 (ChaPD Team)
 프로젝트 리드: JIN
 이메일: musicbox260@gmail.com
-웹사이트: https://github.com/ChaPDCha/ShareBible_info
+웹사이트: https://github.com/ChaPDCha/RealBible_info
 
 Copyright 2026 JINPRODUCTION. All rights reserved.
